@@ -1,0 +1,5 @@
+C:\MojePierwszeRepo\Saper\Saper\obj\Debug\net8.0\Saper.GeneratedMSBuildEditorConfig.editorconfig
+C:\MojePierwszeRepo\Saper\Saper\obj\Debug\net8.0\Saper.AssemblyInfoInputs.cache
+C:\MojePierwszeRepo\Saper\Saper\obj\Debug\net8.0\Saper.AssemblyInfo.cs
+C:\MojePierwszeRepo\Saper\Saper\obj\Debug\net8.0\Saper.csproj.CoreCompileInputs.cache
+C:\MojePierwszeRepo\Saper\Saper\obj\Debug\net8.0\Saper.sourcelink.json
