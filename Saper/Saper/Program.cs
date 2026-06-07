@@ -188,8 +188,7 @@ class Program
 
 
 
-        /*??*/
-        displayBoard;
+        return displayBoard;
 
     }
 
@@ -363,7 +362,7 @@ class Program
 
 
 
-        return uncoveredCount == /* ??*/ *height - bombCount;
+        return uncoveredCount == width * height - bombCount;
 
     }
 
